@@ -1,2 +1,2 @@
 # C-Inventory-Management-System
-File management system created in C integrated with CSV file I/O, pointers, and error handling.
+This program is an inventory management system created in C integrated with CSV file I/O, dynamic memory allocation, and error handling. The program uploads a list of items as a CSV file to the system. It allows you to view, sort, search, update, add, and delete items from the uploaded file. Contained within the file is the ID number, name, price, and quantity of the item which all can be manipulated and managed through the C code.
